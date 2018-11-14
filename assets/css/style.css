@@ -1,0 +1,32 @@
+body {
+	background-color: orange;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*heading*/
+#main-head h1 {
+	color: #664ef0;
+	text-align: center;
+	background-image: url("http://mysticinvestigations.com/paranormal/wp-content/uploads/2016/08/Stone-Crystal-Strength-1000x288.jpg");
+}
+
+
+/*footer*/
+.footer {
+	text-align: center;
+}
+
+
+/*Random number div*/
+#div-random {
+	padding-bottom: 57px;
+}
+
+
+/*crystal images*/
+.crystal-img {
+	height: 120px;
+	width: 132px;
+}
+
+
